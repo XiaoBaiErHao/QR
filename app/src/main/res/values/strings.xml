@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">二维码生成与解析</string>
+    <string name="back">返回</string>
+</resources>
